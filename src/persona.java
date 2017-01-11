@@ -3,8 +3,8 @@
  */
 public class persona {
     private String dni;
-    private String nom;
-    private String cognom;
+    private String name;
+    private String firstName;
 
     public persona() {
 
